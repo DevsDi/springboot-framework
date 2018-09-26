@@ -5,4 +5,5 @@ synthesis-common.iml
 .classpath
 .project
 .settings/
+.springBeans
 src/test/test.iml
